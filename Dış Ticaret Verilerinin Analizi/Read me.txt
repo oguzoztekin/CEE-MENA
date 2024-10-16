@@ -1,0 +1,8 @@
+0. Yapacağımız analizde kullanmak için çalışacağımız ülkeler ve onların iso2 kodları, iso3 kodları, bölge, kıta ve üye olduğu toplulukları içeren "Ülkeler.xlsx" dosyasını ekledik. Ayrıca 2 basamaklı HS kodları ile genel sektörlerin isimlerini içeren "Atlastan Çekilmiş HS92 İsimleri 2 Basamak İçin.xlsx" dosyasını ekledik.
+
+1. "2012, 2017 ve 2022'deki yeni ürünlerin detaylı ve genel sektörleri.xlsx" ile 2012, 2017 ve 2022'de eklenen yeni ürünleri 2 basamaklı HS kodları, 6 basamaklı HS kodları, detaylı ve genel sektör isimleriyle aldık.
+
+
+
+Panel Formatında Ülkelerin Yeni Ürünlerdeki Ticaret Oranı Sektörlerle Beraber.xlsx
+anıl 14-10
