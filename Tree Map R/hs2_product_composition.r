@@ -17,8 +17,7 @@ library(RColorBrewer)
 library(data.table)
 library(d3Tree)
 
-treemap_data <- data.table(read_xlsx("C://Users//oguzo//Downloads//treemap.xlsx"))
-
+treemap_data <- data.table(read_xlsx("C://Users//oguzo//Desktop//MENA//CEE-MENA//Tree Map R//treemap.xlsx"))
 
 for (y in treemap_data$Y??l) {
   data = treemap_data[Y??l == y]
@@ -54,7 +53,3 @@ for (y in treemap_data$Y??l) {
   dev.off()
   
 }
-  
-
-
-
