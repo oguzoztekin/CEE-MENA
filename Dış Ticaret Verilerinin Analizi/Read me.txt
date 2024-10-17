@@ -1,6 +1,17 @@
-0. Yapacağımız analizde kullanmak için çalışacağımız ülkeler ve onların iso2 kodları, iso3 kodları, bölge, kıta ve üye olduğu toplulukları içeren "Ülkeler.xlsx" dosyasını ekledik. Ayrıca 2 basamaklı HS kodları ile genel sektörlerin isimlerini içeren "Atlastan Çekilmiş HS92 İsimleri 2 Basamak İçin.xlsx" dosyasını ekledik.
+0-) Yapacağımız analizde kullanmak için çalışacağımız ülkeler ve onların iso2 kodları, iso3 kodları, bölge, kıta ve üye olduğu toplulukları içeren "0-) Ülkeler.xlsx" dosyasını ekledik. Ayrıca 2 basamaklı HS kodları ile genel sektörlerin isimlerini içeren "0-) Atlastan Çekilmiş HS92 İsimleri 2 Basamak İçin.xlsx" dosyasını ekledik.
 
-1. "2012, 2017 ve 2022'deki yeni ürünlerin detaylı ve genel sektörleri.xlsx" ile 2012, 2017 ve 2022'de eklenen yeni ürünleri 2 basamaklı HS kodları, 6 basamaklı HS kodları, detaylı ve genel sektör isimleriyle aldık.
+1-) "1-) 2012, 2017 ve 2022'deki yeni ürünlerin detaylı ve genel sektörleri.xlsx" ile 2012, 2017 ve 2022'de eklenen yeni ürünleri 2 basamaklı HS kodları, 6 basamaklı HS kodları, detaylı ve genel sektör isimleriyle aldık.
+
+2-) "2-) 2012, 2017 ve 2022'deki yeni ürünlerin sektörlerdeki sayıları.xlsx " ile 2012, 2017 ve 2022 yıllarında yeni ürünlerin 2 basamaklı HS kodlarına göre hangi sektörlerde kaç tane bulunduğunu gösteren bir excel oluşturduk.
+
+3-) "3-) Yeni ürünlerin ticaret hacmindeki toplam oranları 2012-2021.xlsx" ile 2012'den 2021'e kadar olan yıllarda yeni ürünlerin ticaret hacminin o yılki genel ticaret hacmine oranını gösteriyoruz. 2012-2016 arası için HS12'de eklenen yeni ürünlere bakıyoruz, 2017-2021 arası için HS17'de eklenen yeni ürünlere bakıyoruz.
+
+
+5-) Seçili ülkelerde yani CEE/MENA bölgesindekiler ve Türkiye ile benzer ekonomik büyümelere sahip olabilecek Meksika, Endonezya, Vietnam, Hindistan ve Bangladeş ülkelerinin yeni eklenen ürünlerin o ülkenin toplam ticari hacmindeki oranları hesaplayarak "5-) Yeni eklenen ürünlerin seçili ülkelerdeki oranları.xlsx" belgesini elde ediyoruz. 2012-2016 arası için HS12'de eklenen yeni ürünlere bakıyoruz, 2017-2021 arası için HS17'de eklenen yeni ürünlere bakıyoruz.
+
+6-) Seçili ülkelerde yani CEE/MENA bölgesindekiler ve Türkiye ile benzer ekonomik büyümelere sahip olabilecek Meksika, Endonezya, Vietnam, Hindistan ve Bangladeş ülkelerinin yeni eklenen ürünlerin 2 basamaklı HS sektörlerinin o ülkenin toplam ticari hacmindeki oranları hesaplayarak "6-) Ülkelerin 2012-2021 arasında yeni eklenen ürünlerde 2 basamaklı HS kodu sektörlerinin ticaret hacim oranı.xlsx" belgesini elde ediyoruz. 2012-2016 arası için HS12'de eklenen yeni ürünlere bakıyoruz, 2017-2021 arası için HS17'de eklenen yeni ürünlere bakıyoruz.
+
+7-) Seçili ülkelerde yani CEE/MENA bölgesindekiler ve Türkiye ile benzer ekonomik büyümelere sahip olabilecek Meksika, Endonezya, Vietnam, Hindistan ve Bangladeş ülkelerinin yeni eklenen ürünlerin 6 basamaklı HS sektörlerinin o ülkenin toplam ticari hacmindeki oranları hesaplayarak "7-) Ülkelerin 2012-2021 arasında yeni eklenen ürünlerde 6 basamaklı HS kodu sektörlerinin ticaret hacim oranı.xlsx" belgesini elde ediyoruz. 2012-2016 arası için HS12'de eklenen yeni ürünlere bakıyoruz, 2017-2021 arası için HS17'de eklenen yeni ürünlere bakıyoruz.
 
 
 
