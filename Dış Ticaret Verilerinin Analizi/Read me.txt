@@ -1,6 +1,6 @@
-0-) Yapacağımız analizde kullanmak için çalışacağımız ülkeler ve onların iso2 kodları, iso3 kodları, bölge, kıta ve üye olduğu toplulukları içeren "0-) Ülkeler.xlsx" dosyasını ekledik. Ayrıca 2 basamaklı HS kodları ile genel sektörlerin isimlerini içeren "0-) Atlastan Çekilmiş HS92 İsimleri 2 Basamak İçin.xlsx" ve 1 basamaklı HS kodları ile genel sektörlerin isimlerini içeren "0-) Atlastan Çekilmiş HS92 İsimleri 1 Basamak İçin.xlsx" dosyasını ekledik.
+0-) Yapacağımız analizde kullanmak için çalışacağımız ülkeler ve onların iso2 kodları, iso3 kodları, bölge, kıta ve üye olduğu toplulukları içeren "0-) Ülkeler.xlsx" dosyasını ekledik. Ayrıca 1 basamaklı ve 2 basamaklı HS kodları ile genel sektörlerin isimlerini içeren "0-) Atlastan Çekilmiş HS92 İsimleri 1 Basamak İçin.xlsx" dosyasını ekledik.
 
-1-) "1-) 2012, 2017 ve 2022'deki yeni ürünlerin detaylı ve genel sektörleri.xlsx" ile 2012, 2017 ve 2022'de eklenen yeni ürünleri 2 basamaklı HS kodları, 6 basamaklı HS kodları, detaylı ve genel sektör isimleriyle aldık.
+1-) "1-) 2012, 2017 ve 2022'deki yeni ürünlerin detaylı ve genel sektörleri.xlsx" ile 2012, 2017 ve 2022'de eklenen yeni ürünleri 1 basamaklı HS Kodları, 2 basamaklı HS kodları, 6 basamaklı HS kodları, sektör isimleriyle aldık.
 
 2-) "2-) 2012, 2017 ve 2022'deki yeni ürünlerin sektörlerdeki sayıları.xlsx " ile 2012, 2017 ve 2022 yıllarında yeni ürünlerin 2 basamaklı HS kodlarına göre hangi sektörlerde kaç tane bulunduğunu gösteren bir excel oluşturduk.
 
